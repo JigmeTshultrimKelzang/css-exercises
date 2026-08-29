@@ -3,7 +3,11 @@
     font-family: Verdana, DejaVu Sans, sans-serif;
 }
 
-#second{
+#second {
     color: #005eff;
     font-size: 36px;
+}
+
+.third {
+    font-size: 24px;
 }
